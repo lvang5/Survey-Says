@@ -4,8 +4,7 @@ class Header extends Component {
     render() {
         return(
             <header className="App-header">
-            <h1 className="App-title">Feedback!</h1>
-            <h4><i>Don't forget it!</i></h4>
+            <img className="img" src="https://www.ntaskmanager.com/wp-content/uploads/2018/03/Feedback_header.png"/>
           </header>
 
         );
