@@ -1,11 +1,14 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import Results from './Results/Results.js';
 
-export default class Admin extends Component {
+class Admin extends Component {
   render() {
     return (
       <div>
-        
+        <Results/>
       </div>
     )
   }
 }
+
+export default Admin;
