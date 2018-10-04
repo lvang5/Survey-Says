@@ -73,4 +73,3 @@ Lais Vang
 
 #### Acknowledgments
 * CSS Styling: W3 School
-
