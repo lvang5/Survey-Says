@@ -51,6 +51,8 @@ Between the server and client, you'll need two terminal tabs! Because we're usin
 - React.JS
 - React Redux
 - NODE.JS
+## Screen Shot
+![Landing Page](wireframes/Landing.png)
 
 ## Screen Shot
 ![Landing Page](wireframes/Landing.png)
