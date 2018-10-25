@@ -52,6 +52,11 @@ Between the server and client, you'll need two terminal tabs! Because we're usin
 - React Redux
 - NODE.JS
 
+## Screen Shot
+![Landing Page](wireframes/Landing.png)
+
+
+
 ## Completed features
 - [x] Created components for the header, page one, page two, page three, page four, page five, and admin
 - [x] Created different routes for each page 
